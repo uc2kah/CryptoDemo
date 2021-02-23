@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72d43319-bd4a-44a3-bf06-872a55d6c0a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ru/stablesystems/currency/Fiat.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ru/stablesystems/currency/wallet.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/stablesystems/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/stablesystems/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/stablesystems/currency/Fiat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/stablesystems/currency/Fiat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
